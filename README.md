@@ -1,6 +1,6 @@
 # calculator
 
 first project made using:
-- java
-- java fx
-- maven
+- Java
+- JavaFX
+- Maven
