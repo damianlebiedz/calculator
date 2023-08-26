@@ -1,6 +1,5 @@
 # calculator
 
-first project made using:
-- Java
-- JavaFX
-- Maven
+First project created using:
+- JavaFX,
+- build with Maven
