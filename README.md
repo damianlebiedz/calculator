@@ -1,5 +1,3 @@
 # calculator
 
-First project created using:
-- JavaFX,
-- build with Maven
+Simple calculator project built with Maven, made by Java with JavaFX GUI.
